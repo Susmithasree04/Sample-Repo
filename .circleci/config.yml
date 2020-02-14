@@ -9,5 +9,5 @@ jobs:
     - checkout
     - run: mkdir bucket && echo "lorem ipsum" > bucket/build_asset.txt
     - aws-s3/copy:
-        from: ymlfile.yml
+        from: cloud.yml
         to: 's3://storagedorcircleci/circlecidata/'
