@@ -23,7 +23,7 @@ Parameters:
     Default: sg-0dd631b82dc367686
     AllowedValues:
       - sg-099b02a396b3b73b2
-      - sg-06e998d632d96b161
+      - sg-0ac888e41706b56e8
       - sg-021757b5e1320994f
 Resources:
   Server:
