@@ -20,7 +20,7 @@ Parameters:
       - t2.medium
   SecurityGroup:
     Type: 'AWS::EC2::SecurityGroup::Id'
-    Default: sg-0dd631b82dc367686
+    Default: sg-0ac888e41706b56e8
     AllowedValues:
       - sg-0dd631b82dc367686
       - sg-0ac888e41706b56e8
